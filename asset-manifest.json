@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/food-order-app/static/css/main.d6f73f36.chunk.css",
+    "main.js": "/food-order-app/static/js/main.d8e82b60.chunk.js",
+    "main.js.map": "/food-order-app/static/js/main.d8e82b60.chunk.js.map",
+    "runtime-main.js": "/food-order-app/static/js/runtime-main.699680a5.js",
+    "runtime-main.js.map": "/food-order-app/static/js/runtime-main.699680a5.js.map",
+    "static/js/2.c16996b3.chunk.js": "/food-order-app/static/js/2.c16996b3.chunk.js",
+    "static/js/2.c16996b3.chunk.js.map": "/food-order-app/static/js/2.c16996b3.chunk.js.map",
+    "index.html": "/food-order-app/index.html",
+    "static/css/main.d6f73f36.chunk.css.map": "/food-order-app/static/css/main.d6f73f36.chunk.css.map",
+    "static/js/2.c16996b3.chunk.js.LICENSE.txt": "/food-order-app/static/js/2.c16996b3.chunk.js.LICENSE.txt",
+    "static/media/chhola.a1458ef1.jpg": "/food-order-app/static/media/chhola.a1458ef1.jpg",
+    "static/media/dosa.5c938f45.jpg": "/food-order-app/static/media/dosa.5c938f45.jpg",
+    "static/media/food.05892fe9.jpeg": "/food-order-app/static/media/food.05892fe9.jpeg",
+    "static/media/fooda.875b8ccf.jpeg": "/food-order-app/static/media/fooda.875b8ccf.jpeg",
+    "static/media/gujrati.77bd2d3b.jpeg": "/food-order-app/static/media/gujrati.77bd2d3b.jpeg",
+    "static/media/idli.dc2d98fd.jpg": "/food-order-app/static/media/idli.dc2d98fd.jpg",
+    "static/media/logo.019682fe.png": "/food-order-app/static/media/logo.019682fe.png",
+    "static/media/masala.f4dd64f4.jpg": "/food-order-app/static/media/masala.f4dd64f4.jpg",
+    "static/media/paneer.f04d2c56.jpg": "/food-order-app/static/media/paneer.f04d2c56.jpg",
+    "static/media/rajasthani.ae328833.jpg": "/food-order-app/static/media/rajasthani.ae328833.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699680a5.js",
+    "static/js/2.c16996b3.chunk.js",
+    "static/css/main.d6f73f36.chunk.css",
+    "static/js/main.d8e82b60.chunk.js"
+  ]
+}
